@@ -24,8 +24,8 @@ Tool ini hanya boleh digunakan pada target yang **kamu miliki izin eksplisit** u
 ## Instalasi
 
 ```bash
-git clone https://github.com/<username>/pydirsearch.git
-cd pydirsearch
+git clone https://github.com/hadid-auriel/dirsearch
+cd dirsearch
 pip install -r requirements.txt
 ```
 
